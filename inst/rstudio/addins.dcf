@@ -1,0 +1,4 @@
+Name: Save And Styler Equals
+Description: Save active document and call styler.equals::style_file
+Binding: saveAndStylerEqualsAddin
+Interactive: true
