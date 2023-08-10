@@ -1,6 +1,6 @@
 Package: styler.equals
-Title: Third-party 'Equals Style' Guide For 'styler'
-Version: 0.0.1
+Title: Third-Party 'Equals Style' Guide for 'styler'
+Version: 0.0.2
 Authors@R: c(
     person("Robin", "Lovelace", email = "rob00x@gmail.com", role = c("aut","cre"),
       comment = c(ORCID = "0000-0001-5679-6536"))
@@ -10,9 +10,8 @@ Description: Styles code according to the 'equals style'
     'styler'.
 License: MIT + file LICENSE
 Imports: 
-    magrittr,
     purrr,
-    styler (>= 1.4.1.9003)
+    styler (>= 1.9.1)
 Suggests: 
     fs,
     knitr,
